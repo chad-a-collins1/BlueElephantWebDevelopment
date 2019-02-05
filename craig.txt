@@ -1,0 +1,21 @@
+e-Commerce / Database / Web Developer
+  
+Databases: 
+MySQL, Btrieve, Pervasive.SQL, SQL Server, Oracle, Access 
+
+Web Services: 
+Technologies: PHP, JSP, ASP, ASP.NET 
+- Payment Gateway Integration: osCommerce, Authorize.net, CyberSource, Verisign 
+- Shopping Cart Integration: ClickCartPro, PayPal, etc. 
+- Database Integration 
+- Customized Reports 
+- Imaging Galleries 
+- Marketing
+- Optimization and search engine placement
+
+Software Services: 
+Technologies: C++, C, Java, VB.NET 
+- Customized Windows applications 
+- Unix/Linux Application Development 
+- Customized Database Applications i.e. Client
+- Tracking, Inventory Tracking, Job Tracking Apps, etc

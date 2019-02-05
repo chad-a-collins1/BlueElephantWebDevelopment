@@ -1,0 +1,192 @@
+CareCircle
+*****************************************************
+*****************************************************
+Contact: Brian Gallick - bgallick@carecircle.com - c914-954-1712  w914-741-6742
+
+ftp:
+ftp://www.carecircle.com
+bgallick / 20car95505
+
+SQL Server:
+server: SQL.DLHOST.COM
+dbname: carecircle
+bgallick / car955
+
+dev environment:
+http://www.carecircle.com/ccdev
+ftp directory - carecircle.com/dev/home1
+
+
+Chefsline
+*****************************************************
+*****************************************************
+Contact: Jennifer Beisser - jbeisser@nyc.rr.com - c646-337-9327
+
+host: godaddy.com
+control panel login : 7104348 / Needle1224
+
+ftp:
+ftp://www.chefsline.com
+JBeisser / Needle1224
+
+amember:
+http://www.chefsline.com/amember/admin
+admin / Needle1224
+
+amember website: www.amember.com  - jennifer6 / jaziha
+
+PayPal:
+Email:   jenn@chefsline.com  
+password Lambert321 
+
+MYSQL:   
+chefs   - chefs/Needle1224
+https://mysqladmin.secureserver.net/36/
+
+chef_recipe - chef_recipe / Needle1224
+https://mysqladmin.secureserver.net/29/
+
+chef_schedule -  chef_schedule / Needle1224
+https://mysqladmin.secureserver.net/39/
+
+chefsline_blog -  chefsline_blog / Needle1224
+https://mysqladmin.secureserver.net/39/
+
+
+VVD
+*****************************************************
+*****************************************************
+Contact: Charles Barr - charles@vvdcommunications.com - c415-377-7600
+host info
+http://www.hostingbyregister.com/login.html this will take
+
+Domain: vvdcommunications.com
+Password: cbarr999
+
+
+ftp:
+ftp://www.vvdcommunications.com
+vvdcommunications.com / cbarr999
+
+production dev - www.vvdcommunications.com/dev/
+
+MYSQL 
+@mysql_connect("sqlc6.megasqlservers.com","dbm.vvdcommunications.com","MoSpo09");
+@mysql_select_db( "db1_vvdcommunications_com");
+
+
+web calendar:
+http://www.vvdcommunications.com/backoffice/calendar/login.php
+
+I setup 3 logins:
+admin / vvdadmin
+tech1 / tech1
+tech2 / tech2
+
+admin page :
+http://www.vvdcommunications.com/admin
+
+admin / vvdadmin
+
+
+MYSQL dev BlueElephant
+//@mysql_connect("mysql9.opentransfer.com","corpste_admin","MoSpo09");
+//@mysql_select_db( "corpste_vvd");
+
+MYSQL dev PHPMyAdmin
+http://mysql9.hostexcellence.com/phpMyAdmin:
+"corpste_admin","MoSpo09"
+
+
+dev webcalendar
+http://www.blueelephantwebdev.net/projects/vvd/backoffice/calendar/login.php
+
+I setup 3 logins:
+admin / vvdadmin
+tech1 / tech1
+tech2 / tech2
+
+dev admin page
+http://www.blueelephantwebdev.net/projects/vvd/admin
+
+admin / vvdadmin
+
+
+IndyTexans
+*****************************************************
+*****************************************************
+Contact: Linda Curtis - ljcurtis@indytexans.org or ljcurtis@ev1.net - c512-657-2089
+
+host: dreamhost.com - ljcurtis / rosie802
+
+ftp:
+ftp://www.indytexans.org
+indytexa / reAK15u
+
+MySQL:
+login to dreamhost - go to GOODIES - Manage MySQL:
+click on itdb.indytexans.org [phpMyAdmin]  
+or
+Go To - http://itdb.indytexans.org/
+ituser / MoSpo09
+
+Admin folder
+http://www.indytexans.org/admin
+itadmin / er1hz3x
+
+Web Calendar
+http://www.indytexans.org/webcalendar
+admin / MoSpo09
+ljcurtis / rosie802
+
+
+Meetings Calendar
+http://www.indytexans.org/meetings/admin
+itadmin / er1hz3x
+or sign in with info@indytexans.org / er1hz3x
+
+News Blog: Not Ours - no login
+http://grassrootsindependent.blogspot.com
+
+new blog
+http://indytexans.blogspot.com/
+http://www.blogger.com/
+ljcurtis802 / rosie802
+
+old blog
+http://www.indytexans.org/blog/
+http://www.indytexans.org/blog/wp-login.php
+
+ ljcurtis / rosie802
+  admin / ef752e
+
+
+BlueElephantWebDev. NET / Corpies
+**************************************************************************
+**************************************************************************
+Windows hosting - ASP and PHP both work. MySQL and SQL Server
+
+host: www.hostexcellence.com
+https://manage.hostexcellence.com/index.php/
+dannr09@aol.com / Tdjotl!09
+
+ftp:
+ftp://www.corpies.com
+or
+ftp://www.blueelephantwebdev.net
+corpster / Tdjotl!09
+
+client dev sites are under :
+   blueelephantwebdev.net/projects/
+
+MySQL
+mysql9.hostexcellence.com/phpMyAdmin
+corpste_admin / MoSpo09
+
+SQL Server
+mssql5.hostexcellence.com (72.41.4.25) 
+corpste_admin / MoSpo09
+
+Shared SSL path
+https://corpies.c2.hostexcellence.com/
+
